@@ -5,7 +5,7 @@
 <div align=center>
 
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimhyerin&theme=graywhite"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimhyerin&exclude_repo=2021-VehicleIntelligence&theme=graywhite"/>
 </div>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
