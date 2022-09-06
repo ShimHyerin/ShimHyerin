@@ -80,10 +80,10 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 -->
 ![Adobe](https://img.shields.io/badge/adobe-A7A7A7.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-A7A7A7.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-A7A7A7.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-A7A7A7.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-A7A7A7?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-A7A7A7.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/PremierePro-A7A7A7.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/AfterEffects-A7A7A7.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/XD-A7A7A7?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-A7A7A7.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
@@ -99,11 +99,9 @@
 
 <hr/>
 
-𝐑𝐞𝐩𝐨
-<br>
 <a href="https://github.com/ShimHyerin/AlgorithmStudy">
     <img 
-        src="https://img.shields.io/badge/✓ Algorithm Study-FCE59A.svg?style=for-the-badge&logoColor=white"/>
+        src="https://img.shields.io/badge/✓ Algorithm Study REPO-FCE59A.svg?style=for-the-badge&logoColor=white"/>
 </a>
 <br>
 <img src="http://mazandi.herokuapp.com/api?handle=nier8702&theme=warm"/>
