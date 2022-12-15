@@ -1,6 +1,4 @@
-## <div align=center> ✦ 𝙷𝚒, 𝙸 𝚊𝚖 @🆂🅷🅸🅼 🅷🆈🅴 🆁🅸🅽 ✦ </div>
-
-<br>
+<p align="center"><img src = "https://user-images.githubusercontent.com/54926467/207863244-b2810887-91c5-4e82-909a-74a9f3f1a76b.png" width="50%" height="50%"></>
 
 <div align=center>
 
@@ -23,22 +21,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shimhyerin&theme=graywhite"/>
 <br><br>
 
-<hr/>
-![image](https://user-images.githubusercontent.com/54926467/207862597-1d3f55c5-3440-4b84-9832-080758e08656.png)
-
-
-<hr/>
-
-<a href="https://github.com/ShimHyerin/AlgorithmStudy">
-    <img 
-        src="https://img.shields.io/badge/✓ Algorithm Study REPO-FCE59A.svg?style=for-the-badge&logoColor=white"/>
-</a>
-<br>
-<img src="http://mazandi.herokuapp.com/api?handle=nier8702&theme=warm"/>
-
-
- </div>
- 
  
  
  
